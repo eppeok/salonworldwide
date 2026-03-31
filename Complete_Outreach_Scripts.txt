@@ -3,368 +3,245 @@
 
 
 
-
 COMPLETE OUTREACH SCRIPTS
 Every Message, Every Channel, Every Phase
-Salon Marketing Masterclass  |  evolvxai.com/salon01-3329
+Free Salon Growth Playbook  |  evolvxai.com/free-playbook-access
 GHL Merge Tag: {{contact.first_name}}
-
+Funnel: Free Playbook Signup → Thank You Page Upsell (AED 397 Course at evolvxai.com/salon01)
+
 PART 1: INSTAGRAM DM SCRIPTS
 Phase 1 — Cold Openers (Week 1-2)
-Send 30-50 of these per day. Mix and match variants. NEVER pitch in the first message. These are conversation starters only.
-Script A — The Ad Question Opener:
-"Hey [Name] — noticed you're running ads for your salon. Quick question: are they actually converting? I work with salon owners on this exact problem and I'm curious what your experience has been."
-Script B — The Compliment Opener:
-"Hey [Name] — your salon looks amazing! Quick question — do most of your new clients find you through Instagram or ads? I've been researching how US salon owners are getting clients and your page caught my eye."
+Send 30-50 of these per day. Mix and match variants. NEVER pitch in the first message. Lead with AUDIT FINDINGS about their salon. These are value-first conversation starters.
+Script A — The Audit Opener:
+"Hey [Name] — I came across [Salon Name] while researching salons in [Dubai area]. I noticed a few things about your Google profile and Instagram that could be costing you clients. For example, your Google Business Profile doesn't have the 'Book Now' button set up, and your reviews have slowed down. Would you be open to me sharing what I found?"
+Script B — The Compliment + Gap Opener:
+"Hey [Name] — your salon looks amazing! I've been researching Dubai salons and [Salon Name] caught my eye. Quick question — I noticed you have [X] followers but you're only posting a few times a month. Have you ever thought about turning those followers into more bookings? I've been helping Dubai salon owners with this."
 Script C — The Curiosity Opener:
-"Hey [Name] — random question: if you could fill your calendar without spending on ads, would that change your business? I've been talking to a lot of salon owners in [their state] about this lately."
+"Hey [Name] — random question: if you could fill your calendar without spending on ads, would that change your business? I've been talking to a lot of salon owners in [their area] about this lately and the results have been incredible."
 Script D — The Value-First Opener:
-"Hey [Name] — I just shared a free tip with a salon owner in [their city] about ranking #1 on Google Maps for 'salon near me' — took her 2 weeks. Want me to share it with you too?"
+"Hey [Name] — I just helped a salon owner in [Dubai area] rank #1 on Google Maps for 'salon near me' — took her about 3 weeks. Want me to share how she did it? It's surprisingly simple."
 Phase 1 — Follow-Up Replies (When They Respond)
-Reply A — If ads AREN'T working:
-"Yeah that's the trap most salon owners fall into — paying to rent clients instead of building a system. I actually just wrapped up a masterclass on this — over 500 salon owners have used it to stop running ads entirely. Happy to send you the link if you want to check it out."
+Reply A — If they're interested in the audit findings:
+"Great! So here's what I noticed: [mention 2-3 specific gaps — e.g., 'Your Google profile has X reviews but the growth has slowed, your Instagram has Y followers but low engagement, and there's no online booking link']. I actually put together a free playbook that covers exactly how to fix all of this — Google Maps domination, Instagram content strategy, client reactivation, and more. Want me to send you the link?"
 Reply B — If they ask what you do:
-"I help salon owners fill their calendars using organic marketing — Google Maps, Instagram, client reactivation, and referrals. No paid ads. I put everything into an 8-module masterclass that 500+ salon owners have used. It's $97 right now (normally $497) with a 30-day guarantee. Want me to send the link?"
-Reply C — If ads ARE working:
-"Nice! That's rare honestly — most salon owners I talk to are bleeding $3k-$8k/month with inconsistent results. Out of curiosity, what would you do with that budget if you didn't need it for ads? I've been helping salon owners build organic systems that replace ads entirely. Might be worth a look even as a backup plan."
+"I help salon owners in Dubai grow their business using organic marketing — Google Maps, Instagram, client reactivation, and referrals. No paid ads needed. I put together a free step-by-step playbook that covers the whole system. Want me to send it? It's completely free: evolvxai.com/free-playbook-access"
+Reply C — If they mention spending on ads:
+"Yeah, I hear that a lot from Dubai salon owners — spending AED 5,000-15,000/month on ads with inconsistent results. The salon owners I've been working with built organic systems that actually replaced their ad spend entirely. I put together a free playbook that shows exactly how. Want the link?"
 Reply D — If lukewarm / maybe:
-"No pressure at all. If you want, I can send you a quick breakdown of the 4-pillar system — takes 2 minutes to read. Then you can decide if it's worth exploring. Sound fair?"
+"No pressure at all! If you want, I can send you a free playbook I put together — it covers the exact strategies Dubai salon owners are using to get more bookings without ads. Takes about 15 minutes to read and it's packed with actionable stuff. Sound fair?"
 Reply E — If they say YES send the link:
-"Here you go: evolvxai.com/salon01-3329 — it's $97 right now (normally $497) and comes with a 30-day money-back guarantee. The Reactivation Swipe File alone has helped salon owners bring back 20+ clients in Week 1. Let me know if you have any questions!"
+"Here you go: evolvxai.com/free-playbook-access — it covers Google Maps domination, Instagram content that converts, client reactivation campaigns, and referral systems. It's completely free. Let me know what you think after you check it out!"
 Phase 2 — Nurture DMs (Week 3-4)
 Story Reply Trigger (when they view your stories):
-"Hey [Name] — saw you watched my story about [topic]. Did that resonate with you? Happy to chat about it if you want."
+"Hey [Name] — saw you watched my story about [topic]. Did that resonate with you? Happy to chat about it if you want. Also, did you get a chance to check out the free playbook I mentioned?"
 Value-Add DM:
-"Hey [Name] — just wanted to share something quick. One of the salon owners I work with ranked #1 on Google Maps in [their city] in just 30 days. The trick? She optimized 3 things most salon owners ignore. Happy to share if you're curious."
+"Hey [Name] — just wanted to share something quick. One of the salon owners I work with in Dubai ranked #1 on Google Maps in just 3 weeks. The trick? She optimized 3 things most salon owners completely ignore. It's all covered in the free playbook if you haven't grabbed it yet: evolvxai.com/free-playbook-access"
 Check-In DM:
-"Hey [Name] — just checking in! Have you made any changes to your marketing since we last chatted? I've been sharing a lot about the 4-pillar system on my stories — would love to hear if anything clicked for you."
-Phase 3 — Urgency DMs (Week 5)
-Urgency DM:
-"Hey [Name] — just wanted to give you a heads up. The $97 launch price on the Salon Marketing Masterclass closes [date]. After that it goes back to $497. If you've been thinking about it, now's the time. The 30-day guarantee means there's zero risk. Here's the link: evolvxai.com/salon01-3329"
-Phase 4 — Last Chance DMs (Week 6)
-Closer DM:
-"Hey [Name] — the 60% launch price on my salon marketing course closes [date]. Wanted to give you a personal heads up before I pull it. The 30-day money-back guarantee means there's zero risk. Just wanted to make sure you saw it before it was gone."
+"Hey [Name] — just checking in! Have you made any changes to your marketing since we last chatted? I've been sharing a lot of tips on my stories about what's working for Dubai salons right now. Would love to hear how things are going with [Salon Name]."
+Phase 3 — Reminder DMs (Week 5-6)
+Gentle Reminder DM:
+"Hey [Name] — I shared a free salon growth playbook a few weeks back. Just wanted to make sure you saw it — a lot of Dubai salon owners have been telling me it completely changed how they think about their online presence. Here's the link in case you missed it: evolvxai.com/free-playbook-access"
 Re-Engage Non-Responders:
-"Hey [Name] — I reached out a few weeks ago about salon marketing. Just wanted to check in one more time — I've had 500+ salon owners go through the masterclass and the results have been incredible. The launch price ($97) closes [date]. After that it's $497. No pressure, just didn't want you to miss it."
-
+"Hey [Name] — I reached out a few weeks ago about some opportunities I noticed with [Salon Name]'s online presence. Just wanted to check in one more time — I put together a free playbook that covers everything from Google Maps ranking to Instagram content to client reactivation. Dubai salon owners have been loving it. Here's the link if you're interested: evolvxai.com/free-playbook-access"
+
 PART 2: LINKEDIN OUTREACH SCRIPTS
 Connection Request Notes (Under 300 Characters)
 Note A — Direct:
-"Hi [Name] — I help salon owners fill their calendars without paid ads. Would love to connect and share some insights that have worked for 500+ US salon owners."
+"Hi [Name] — I help Dubai salon owners grow their bookings without paid ads. Would love to connect and share some insights that have been working really well in the Dubai market."
 Note B — Curiosity:
-"Hi [Name] — noticed you run a salon in [City]. I've been working with salon owners on organic marketing strategies. Would love to connect!"
+"Hi [Name] — noticed you run a salon in [Area]. I've been researching how Dubai salon owners are growing organically. Would love to connect!"
 Note C — Value-First:
-"Hi [Name] — I just helped a salon owner in [State] rank #1 on Google Maps in 30 days. Happy to share how if you're interested. Let's connect!"
+"Hi [Name] — I just helped a salon owner in [Area] rank #1 on Google Maps in 3 weeks. Happy to share how. Let's connect!"
 First Message After Connection (Day 1-2)
 Opening Message:
-"Hey [Name], thanks for connecting! Quick question — are you currently using paid ads to get clients for your salon? I've been working with salon owners across the US on a completely different approach and I'm curious where you stand."
+"Hey [Name], thanks for connecting! Quick question — how are you currently getting new clients for your salon? I've been working with salon owners across Dubai on organic growth strategies and I'm curious what's working for you."
 Follow-Up Messages
 Follow-Up If Interested (Day 3-5):
-"That's what I hear from most salon owners. The system I teach has 4 pillars — Google Maps domination, Instagram content that converts, client reactivation, and referrals. 500+ salon owners have gone through it. It's all inside an 8-module masterclass — $97 right now (normally $497) with a 30-day guarantee. Want me to send the link?"
+"That's what I hear from most salon owners in Dubai. I actually put together a free playbook that covers the exact system — Google Maps domination, Instagram content that converts, client reactivation, and referrals. Would you like me to send you the link? It's completely free."
 Follow-Up If No Reply (Day 7):
-"Hey [Name] — just wanted to follow up on my last message. No worries if you're busy! I've been sharing some insights about salon marketing on my profile — feel free to check out my recent posts. Always happy to chat if you have questions."
+"Hey [Name] — just wanted to follow up. No worries if you're busy! I've been sharing insights about salon marketing on my profile — feel free to check out my recent posts. Also, I have a free playbook for salon owners if you're interested: evolvxai.com/free-playbook-access"
 LinkedIn InMail Template (Sales Navigator)
-Subject: "Salon owners in [City] are ditching paid ads — here's what they're doing instead"
-"Hi [Name], I've been working with salon owners across the US who were spending $3k-$8k/month on ads with inconsistent results. The ones who switched to organic marketing are now getting more bookings than ever — at $0 ad spend.  I put everything into an 8-module masterclass (500+ salon owners enrolled). It's $97 during launch (normally $497) with a 30-day money-back guarantee.  Would love to share it with you: evolvxai.com/salon01-3329  Best, [Your Name]"
-
+Subject: "Dubai salon owners are ditching paid ads — here's what they're doing instead"
+"Hi [Name], I've been working with salon owners across Dubai who were spending AED 5,000-15,000/month on ads with inconsistent results. The ones who switched to organic marketing are now getting more bookings than ever — at zero ad spend.  I put together a free step-by-step playbook that covers the exact system: Google Maps domination, Instagram content strategy, client reactivation, and referral systems.  Grab your free copy here: evolvxai.com/free-playbook-access  Best, [Your Name]"
+
 PART 3: FACEBOOK GROUP POST SCRIPTS
 Week 1 — Comment Scripts Only (NO Posts)
 During Week 1, you ONLY comment on others' posts. Give genuine value. Build credibility. Zero promotion.
 Comment — If someone asks about marketing:
-"Honestly, the biggest ROI I've seen salon owners get is from Google Maps optimization + client reactivation campaigns. Most salon owners overlook these because they're not 'sexy' like Instagram ads, but they convert way better."
+"Honestly, the biggest ROI I've seen Dubai salon owners get is from Google Maps optimization + client reactivation campaigns. Most salon owners overlook these because they're not 'sexy' like Instagram ads, but they convert way better — especially in Dubai where everyone searches 'salon near me' on Google."
 Comment — If someone complains about ads:
-"This is so common. I've talked to hundreds of salon owners and the $3k-$8k/month ad spend with inconsistent results is almost universal. The ones who broke free built organic systems instead."
+"This is so common in Dubai. I've talked to dozens of salon owners and the AED 5,000-15,000/month ad spend with inconsistent results is almost universal. The ones who broke free built organic systems instead — Google Maps, Instagram content, and WhatsApp reactivation."
 Comment — If someone asks about getting more clients:
-"Three things I've seen work consistently: (1) optimize your Google Business Profile so you rank for 'salon near me' in your city, (2) reactivate clients who haven't visited in 90+ days — most salon owners are sitting on a goldmine of lapsed clients, and (3) build a simple referral system. None of this requires ads."
+"Three things I've seen work consistently for Dubai salons: (1) optimize your Google Business Profile so you rank for 'salon near me' in your area, (2) reactivate clients who haven't visited in 90+ days — most salons are sitting on a goldmine of lapsed clients, and (3) build a simple referral system. None of this requires ads."
 Week 2+ — Organic Posts (NO Links in Post Body)
-Post 1 per group per week. Rotate across groups on Monday/Wednesday/Friday. NEVER include links in the post body. CTA is always 'DM me' or 'comment below.'
+Post 1 per group per week. Rotate across groups. NEVER include links in the post body. CTA is always 'DM me' or 'comment below.'
 Post 1 — The Ad Trap:
-"Honest question for anyone running paid ads: how much are you spending per month?  I've been talking to salon owners across the US and the number is almost always between $3k–$8k. Most say the results are inconsistent.  The ones who got off the ad treadmill all have one thing in common — they built a 4-pillar organic system instead.  Happy to share what I've seen working if anyone wants to chat."
+"Honest question for anyone running paid ads in Dubai: how much are you spending per month?  I've been talking to salon owners across Dubai and the number is almost always between AED 5,000-15,000. Most say the results are inconsistent.  The ones who got off the ad treadmill all have one thing in common — they built an organic system instead.  Happy to share what I've seen working if anyone wants to chat."
 Post 2 — The Reactivation Story:
-"Quick story: A salon owner I know sent a 3-message WhatsApp sequence to clients who hadn't visited in 90+ days.  23 of them came back within a week.  Zero ad spend. Zero awkwardness. Just the right words at the right time.  If anyone wants to know what the messages said, drop a comment or DM me."
+"Quick story: A Dubai salon owner sent a 3-message WhatsApp sequence to clients who hadn't visited in 90+ days.  18 of them came back within a week.  Zero ad spend. Zero awkwardness. Just the right words at the right time.  If anyone wants to know what the messages said, drop a comment or DM me."
 Post 3 — Google Maps Win:
-"Random tip: One salon owner I work with went from page 3 to #1 on Google Maps for 'salon near me' in her city — in about 30 days.  The 3 things she changed are things most salon owners completely ignore.  If anyone wants the breakdown, let me know in the comments."
-Post 4 — The $48K Question:
-"Did a quick calculation the other day.  If you're spending $3k/month on ads, that's $36k/year. Add in the booking software fees, the social media manager, and the random 'boost this post' spending — you're looking at $48k+ per year just to stay visible.  What if you could get MORE bookings for $0/month in ad spend?  That's what I've been helping salon owners do."
+"Random tip: One Dubai salon owner I work with went from page 3 to #1 on Google Maps for 'salon near me' in her area — in about 3 weeks.  The 3 things she changed are things most salon owners completely ignore.  If anyone wants the breakdown, let me know in the comments."
+Post 4 — The Cost Question:
+"Did a quick calculation the other day.  If you're spending AED 8,000/month on ads, that's almost AED 100,000/year. Add in the booking software fees, the social media manager, and the random 'boost this post' spending — you're looking at AED 120,000+ per year just to stay visible.  What if you could get MORE bookings for AED 0/month in ad spend?  That's what I've been helping salon owners in Dubai do."
 Post 5 — Referral System:
-"Question for salon owners: How many referrals do you get per month?  Not just 'word of mouth' but actual referrals from a system?  Most salon owners I talk to say 'a few' but don't have a real system. The ones who do are getting 5-10 per month consistently.  It's one of the 4 pillars I teach. Happy to share the basics if anyone's interested."
+"Question for salon owners: How many referrals do you get per month?  Not just 'word of mouth' but actual referrals from a system?  Most Dubai salon owners I talk to say 'a few' but don't have a real system. The ones who do are getting 5-10 per month consistently.  Happy to share the basics if anyone's interested."
 Comment CTA (when people respond to your posts):
 "DM me and I'll share the details!" — Then move the conversation to DM and use the Instagram DM follow-up scripts adapted for Messenger.
-
-PART 4: COLD EMAIL SEQUENCES FOR GHL (9 Emails)
-Load all 9 emails into GoHighLevel as an automated workflow. Use {{contact.first_name}} for personalization. A/B test subject lines.
+
+PART 4: EMAIL NURTURE SEQUENCES FOR GHL (5 Emails)
+Load all 5 emails into GoHighLevel as an automated workflow. Use {{contact.first_name}} for personalization. A/B test subject lines. These are VALUE-FIRST emails leading to free playbook signup.
 Sequence Map:
-Phase 2 (Interest): Emails 1, 2, 3 — Pain, Proof, Tease (Days 1, 3, 6)
-Phase 3 (Desire): Emails 4, 5, 6 — Offer Reveal, Bonus Stack, Testimonials (Days 1, 3, 6)
-Phase 4 (Action): Emails 7, 8, 9 — 48hr, 24hr, 6hr before close
-Phase 2 — Interest Emails
-Email 1 — The Pain (Phase 2, Day 1)
-Subject Line A: Are you renting clients or building a business?
-Subject Line B: The $48,000 mistake most salon owners make every year
-Preview Text: Most salon owners don't realize the trap they're in until they see this number...
+Phase 1 (Value): Emails 1, 2 — Audit + Opportunity (Days 1, 3)
+Phase 2 (Offer): Email 3 — Free Playbook (Day 6)
+Phase 3 (Proof + Reminder): Emails 4, 5 — Success Stories + Gentle Reminder (Days 9, 13)
+Email 1 — The Audit (Day 1)
+Subject Line A: I looked at your salon's online presence — here's what I found
+Subject Line B: [Salon Name] — 3 things that could be costing you clients
+Preview Text: I researched your Google profile, Instagram, and website. Here's what stood out...
 
 Hey {{contact.first_name}},
 
-Quick math for you.
+I was researching salons in your area and [Salon Name] caught my attention.
 
-If you're spending $3,000/month on ads for your salon — which is on the low end for most US salons — that's $36,000 a year.
+I took a few minutes to look at your online presence — your Google Business Profile, Instagram, and website — and I noticed a few gaps that could be costing you clients every week.
 
-Now ask yourself this: if you stopped paying tomorrow, would your bookings dry up?
+Here's what stood out:
 
-If the answer is yes, you're not building a business. You're renting clients.
+1. Your Google Business Profile — while you have solid reviews, there are optimization opportunities that could help you rank higher for "salon near me" searches in your area. Most of your competitors are doing this.
 
-I've talked to hundreds of salon owners who've been stuck on this treadmill for years. The worst part? The moment the ads stop, everything stops. There's no system underneath. No loyalty. No referrals. Just silence.
+2. Your Instagram — you have a good following, but the posting frequency and content type could be working much harder for you. The salons booking the most from Instagram are posting daily transformations and Reels.
 
-The good news: there is a way out. And it doesn't require more ad spend. It actually requires zero ad spend.
+3. Client reactivation — if you've been open for more than a year, you likely have hundreds of past clients who haven't been back in 90+ days. A simple WhatsApp campaign could bring back dozens of them.
 
-I'll show you what it looks like in my next email.
+None of this requires paid ads. It's all organic — and it compounds over time.
+
+In my next email, I'll show you what the top Dubai salons are doing differently.
 
 Talk soon,
 [Your Name]
-
-P.S. — The number most salon owners discover when they finally do the math? $48,000+/year gone. Just in ads. With inconsistent results.
-Email 2 — Social Proof (Phase 2, Day 3)
-Subject Line A: 23 clients came back. Zero ad spend.
-Subject Line B: How Fatima stopped paying $4,000/month for ads (and got MORE bookings)
-Preview Text: Maria thought those clients were gone forever. Then she ran one simple campaign...
+Email 2 — The Opportunity (Day 3)
+Subject Line A: What the top Dubai salons are doing that you're probably not
+Subject Line B: The 4-pillar system Dubai salon owners are using to grow without ads
+Preview Text: These strategies are working right now in Dubai. And they cost nothing...
 
 Hey {{contact.first_name}},
 
-Yesterday I talked about the ad treadmill — spending $3k–$8k/month just to stay visible.
+In my last email I shared some observations about your salon's online presence.
 
-Today I want to show you what happens when salon owners get off it.
+Today I want to show you what the highest-performing Dubai salons are doing differently.
 
-Meet Fatima Al-Rashid:
-She was spending $4,000/month on Instagram ads. Barely any return. After implementing just 3 tactics from a system I'll share with you, she got more bookings than ever — and completely stopped paid ads.
-Current ad spend: $0. Extra bookings per month: +35.
+It comes down to 4 pillars:
 
-Meet Maria Petrova:
-The reactivation campaign brought back 23 clients she thought were gone forever. Using simple, non-pushy WhatsApp scripts. Week 1. The course paid for itself immediately.
+1. RANK — They dominate Google Maps. When someone searches "salon near me" in their area, they show up first. This alone drives 10-20 new bookings per week.
 
-These aren't outliers. This is what happens when you build a real marketing system instead of renting traffic.
+2. CONVERT — Their Instagram isn't just pretty photos. Every post is designed to turn a follower into a booking. Before/after content, Reels showing transformations, strong CTAs in captions.
 
-The system has 4 pillars:
-1. RANK — dominate Google Maps so clients find YOU first
-2. CONVERT — Instagram content that turns followers into bookings
-3. REACTIVATE — bring back 30–45% of clients who haven't visited in 90+ days
-4. REFER — simple system that generates 5–10 referrals per month
+3. REACTIVATE — They don't let past clients disappear. A simple WhatsApp sequence to clients who haven't visited in 90+ days brings back 20-30% of them. Immediately.
 
-Tomorrow I'll show you exactly what's inside.
+4. REFER — They have a system (not just "word of mouth") that generates 5-10 referrals per month consistently.
+
+The best part? None of this costs money. No ads. No expensive tools. Just the right strategy.
+
+Tomorrow I'll share something that puts all of this together in one place — for free.
 
 [Your Name]
-Email 3 — The Tease (Phase 2, Day 6)
-Subject Line A: The 8-module system that filled 500+ salon calendars (sneak peek)
-Subject Line B: Before I show you the price — here's what's inside
-Preview Text: Over the last two days I introduced you to the problem and the proof. Today, the system.
+Email 3 — The Playbook (Day 6)
+Subject Line A: Free playbook — the complete salon growth system for Dubai owners
+Subject Line B: I built this for you — grab your free copy
+Preview Text: Everything you need to grow your salon without ads, in one free playbook...
 
 Hey {{contact.first_name}},
 
-Over the last two emails I introduced you to the problem (the ad treadmill) and the proof (Fatima, Maria, and 500+ others).
+Over the last two emails I shared what I found looking at your salon's online presence, and the 4-pillar system the top Dubai salons use to grow.
 
-Today I want to give you a peek at the actual system.
+Now I want to give you the complete system — for free.
 
-The Salon Marketing Masterclass is 8 video modules — 5+ hours of step-by-step training specifically built for salon owners. No fluff. No theory. Just tactics you can implement the same week.
+I put together the Salon Growth Playbook specifically for Dubai salon owners. It covers:
 
-Here's what's inside:
-• Module 1 — Foundation & Quick Wins Audit
-• Module 2 — Google Business Domination (rank #1 for 'salon near me')
-• Module 3 — Instagram Content That Converts (30-day calendar included)
-• Module 4 — Before/After Content System
-• Module 5 — Client Reactivation Campaign (the 3-wave system)
-• Module 6 — Referral & Partnership Strategy
-• Module 7 — Promotions & QR Capture
-• Module 8 — Review Amplification (turn every 5-star review into 7 assets)
+• Google Business Profile Domination — rank #1 for "salon near me" in your area
+• Instagram Content That Converts — what to post, when to post, and how to turn followers into bookings
+• Client Reactivation Campaign — WhatsApp scripts that bring back lapsed clients in days
+• Referral & Partnership Strategy — a system that generates consistent new clients every month
+• Before/After Content System — the highest-ROI content for salon Instagram accounts
+• Review Amplification — turn every 5-star review into growth fuel
 
-Plus 6 implementation toolkits — templates, scripts, and checklists worth $544 on their own.
+It's completely free. No catch. No credit card.
 
-In my next email, I'll send you the full offer and the price.
+Grab your copy here: evolvxai.com/free-playbook-access
 
-Spoiler: it's not $497.
+I built this because I keep seeing incredible Dubai salons leaving money on the table with their online presence. This playbook fixes that.
 
 [Your Name]
-Phase 3 — Desire Emails
-Email 4 — Offer Reveal (Phase 3, Day 1)
-Subject Line A: Here's everything you get — and the price drops today
-Subject Line B: $1,041 in value. $97 today. Here's the full breakdown.
-Preview Text: The full Salon Marketing Masterclass is open. Here's what's included...
+Email 4 — Success Stories (Day 9)
+Subject Line A: How Dubai salon owners are growing with these strategies
+Subject Line B: From invisible on Google to #1 in 3 weeks — real Dubai salon results
+Preview Text: Real results from salon owners who implemented these strategies...
 
 Hey {{contact.first_name}},
 
-I promised you the full offer today. Here it is.
+I want to share what happens when salon owners actually implement the strategies in the free playbook.
 
-The Salon Marketing Masterclass includes:
-• 8 Video Modules (5+ hours of step-by-step training) — $497 value
-• 30-Day Action Planner — $89 value
-• GBP Domination Kit (100+ photo ideas, templates, schedule) — $79 value
-• Instagram Content Vault (90 days of captions + Canva templates) — $99 value
-• Reactivation Swipe File (copy-paste WhatsApp + SMS scripts) — $99 value
-• 12-Month Seasonal Calendar — $79 value
-• Review Amplification Pack — $99 value
+One Dubai salon owner optimized her Google Business Profile using the playbook's step-by-step guide. Within 3 weeks she went from page 3 to #1 for "salon near me" in her area. She's now getting 15+ new booking inquiries per week — just from Google.
 
-Total value: $1,041.
+Another salon owner ran the WhatsApp reactivation campaign from the playbook. She messaged clients who hadn't visited in 90+ days with 3 simple messages. 18 came back within a week. Zero ad spend.
 
-Launch price today: $97.
+A third salon owner started posting daily Reels using the content framework in the playbook. Her engagement tripled in 2 weeks, and she's booking 8-10 extra appointments per week directly from Instagram DMs.
 
-One-time payment. Lifetime access. 30-day money-back guarantee — implement the tactics, don't see results, email us with proof and you get every dollar back.
+These aren't outliers. This is what happens when you have the right system.
 
-Enroll now: evolvxai.com/salon01-3329
-
-This price does not last. I'll tell you exactly when it ends in my next email.
+If you haven't grabbed the free playbook yet, here's the link: evolvxai.com/free-playbook-access
 
 [Your Name]
-
-P.S. — 500+ salon owners have already gone through this. The only common thing among the ones who didn't see results? They never implemented.
-Email 5 — Bonus Stack (Phase 3, Day 3)
-Subject Line A: Here's what you lose if you wait (the bonuses expire too)
-Subject Line B: The bonuses disappear before the price goes up
-Preview Text: It's not just the price that has a deadline...
+Email 5 — Gentle Reminder (Day 13)
+Subject Line A: Did you grab the free playbook yet?
+Subject Line B: Still available — your free salon growth playbook
+Preview Text: Just checking in. The free playbook is still available for you...
 
 Hey {{contact.first_name}},
 
-Yesterday I showed you the full offer — $1,041 in training and toolkits for $97.
+Just a quick check-in.
 
-Today I want to make sure you know: it's not just the price that has a deadline.
+Over the past couple of weeks I've shared observations about your salon's online presence, the 4-pillar growth system, and real results from Dubai salon owners.
 
-The launch bonuses — the Reactivation Swipe File, the Instagram Content Vault, the 30-Day Action Planner — these are included at $97 only for the launch window. After that, the course is still available, but the bonuses stack goes away.
+The free Salon Growth Playbook is still available if you haven't grabbed it yet.
 
-Why does this matter?
+It covers everything you need to:
+• Rank higher on Google Maps
+• Turn Instagram followers into bookings
+• Bring back lapsed clients with WhatsApp
+• Build a referral system that works on autopilot
 
-Because the Reactivation Swipe File alone is the asset that brought Maria 23 clients back in Week 1. That's not a nice-to-have. That's direct revenue the day you implement it.
+Here's the link: evolvxai.com/free-playbook-access
 
-The Instagram Content Vault gives you 90 days of captions and Canva templates — so you never stare at a blank post again.
+It takes about 15 minutes to read and you can start implementing the strategies the same day.
 
-The 30-Day Action Planner tells you exactly what to do every morning. No guessing.
-
-All of this disappears when the launch window closes.
-
-Enroll before that happens: evolvxai.com/salon01-3329
-
-[Your Name]
-Email 6 — Testimonials (Phase 3, Day 6)
-Subject Line A: Real salon owners. Real numbers. Read these.
-Subject Line B: From $4,000/month in ads to $0 — their stories
-Preview Text: Before you decide, hear from the people who've already done this...
-
-Hey {{contact.first_name}},
-
-I'm going to keep this one short and let the results do the talking.
-
-———
-
-"I was spending $4,000/month on Instagram ads with barely any return. After implementing just 3 tactics from this course, I'm getting more bookings than ever and I've completely stopped paid ads."
-— Fatima Al-Rashid  |  Ad spend now: $0  |  Extra bookings: +35/month
-
-———
-
-"The reactivation campaign brought back 23 clients I thought were gone forever. The WhatsApp scripts are gold. Simple, not pushy, and they actually work."
-— Maria Petrova  |  23 clients reactivated  |  Paid for itself in Week 1
-
-———
-
-500+ salon owners have enrolled. These aren't the exceptions — they're what happens when you actually implement.
-
-You're 30 days away from results like these. The only thing standing between you and a full calendar is the decision.
-
-Enroll here: evolvxai.com/salon01-3329
+If you've already downloaded it, I'd love to hear what you thought. Just reply to this email.
 
 [Your Name]
 
-P.S. — The launch price closes soon. Don't be the person who checks this email after it's gone and wishes they'd moved faster.
-Phase 4 — Action Emails (Last Chance)
-Email 7 — 48-Hour Warning (Phase 4, Day 1)
-Subject Line A: 48 hours left — then the price goes back to $497
-Subject Line B: The math on waiting vs. enrolling right now
-Preview Text: The launch window is closing. Here's what you need to know...
-
-Hey {{contact.first_name}},
-
-Quick heads up: the $97 launch price for Salon Marketing Masterclass closes in 48 hours.
-
-After that, it goes back to $497.
-
-I'm not saying this to pressure you. I'm saying it because I've seen what happens when salon owners wait — they end up spending another $4,000–$8,000 on ads next month, and then the month after that, while this system sits one click away.
-
-What you get for $97 today:
-• 8 modules — 5+ hours of implementation-ready training
-• 6 bonus toolkits — templates, scripts, and calendars
-• 30-day money-back guarantee — zero risk
-• Lifetime access with free updates
-
-Enroll now before the window closes: evolvxai.com/salon01-3329
-
-[Your Name]
-Email 8 — 24-Hour Warning (Phase 4, Day 2)
-Subject Line A: Last chance — 24 hours before the price changes
-Subject Line B: What if it doesn't work? (Read this guarantee)
-Preview Text: This is the final reminder. After midnight tomorrow, the $97 price is gone...
-
-Hey {{contact.first_name}},
-
-24 hours.
-
-That's how long the $97 price is still available for Salon Marketing Masterclass.
-
-Tomorrow it goes back to $497.
-
-I want to answer the most common objection I hear at this point:
-
-"What if it doesn't work for my salon?"
-
-That's exactly why there's a 30-day money-back guarantee. Implement the tactics for 30 days. If you don't see a measurable increase in bookings, email us with proof you did the work — you get a full refund. No questions asked.
-
-There is genuinely no risk here. The only risk is spending another month paying for ads while the system that replaces them costs $97.
-
-Last chance: evolvxai.com/salon01-3329
-
-[Your Name]
-
-P.S. — 500+ salon owners already made this decision. You know what they all have in common now? Full calendars.
-Email 9 — Final Close (Phase 4, Day 3 — 6hrs before)
-Subject Line A: This is it — closing in 6 hours [FINAL NOTICE]
-Subject Line B: Final email. Then it's done.
-Preview Text: I'm closing the cart in 6 hours. This is the last email I'll send about this...
-
-Hey {{contact.first_name}},
-
-I'm closing the $97 launch price in 6 hours.
-
-This is the last email I'll send about this. After tonight, the price goes to $497 and the launch bonuses are gone.
-
-If you've been on the fence — this is the moment.
-
-I don't believe in manufactured urgency. This deadline is real. The system works. The guarantee removes all risk.
-
-If you want to stop bleeding money on ads and build a salon calendar that fills itself organically — this is how.
-
-Final link: evolvxai.com/salon01-3329
-
-If you're not ready, no hard feelings. But if you are — move now.
-
-[Your Name]
-
-P.S. — After the cart closes tonight, I'll be back with new content and new topics. But this offer — $97, full bonuses, this guarantee — won't come back at this price. This is it.
-
 PART 5: WHATSAPP FOLLOW-UP SCRIPTS
-Use voice notes wherever possible — they convert significantly better than text because they feel personal. Only use these in Phase 3+ with warm leads who have already engaged.
-Voice Note 1 — Warm Lead Follow-Up:
-"Hey [Name], just wanted to follow up personally — I know we spoke about your salon marketing a few weeks back. The Salon Marketing Masterclass is closing the launch price on [date] and I wanted to give you a heads up before I pull it. It's $97 right now, goes back to $497 after that. Happy to answer any questions before you decide — just reply here."
-Voice Note 2 — Post-Chat Follow-Up:
-"Hey [Name], it's [Your Name]. I wanted to check in after our chat. Did the 4-pillar system make sense for your salon? The launch price closes [date] — just wanted to make sure you had all the info you needed before deciding. No pressure at all."
-Text Message 1 — Link Drop:
-"Hey [Name]! Here's the link to the Salon Marketing Masterclass we talked about: evolvxai.com/salon01-3329 — $97 (normally $497), 30-day guarantee. Let me know if you have any questions!"
-Text Message 2 — Final Reminder:
-"Hey [Name] — quick heads up: the $97 price closes tonight. After that it's $497. Just didn't want you to miss it. Link: evolvxai.com/salon01-3329"
-
+WhatsApp is the PRIMARY communication channel in Dubai. Use voice notes wherever possible — they convert significantly better than text because they feel personal. Use these for warm leads who have already engaged.
+Voice Note 1 — After DM Engagement:
+"Hey [Name], it's [Your Name]. I wanted to follow up personally — we were chatting about [Salon Name]'s online presence and I mentioned the free playbook I put together for Dubai salon owners. It covers everything from Google Maps ranking to Instagram content to bringing back past clients. I just wanted to make sure you got the link. It's completely free — I'll drop it in the chat right after this voice note. Let me know if you have any questions!"
+Voice Note 2 — After Email Engagement:
+"Hey [Name], it's [Your Name]. I noticed you opened my emails about the salon growth strategies. Just wanted to reach out personally and see if you had any questions. The free playbook is still available and a lot of Dubai salon owners have told me it's been really helpful. Let me know if you'd like me to send you the link directly here on WhatsApp."
+Text Message 1 — Link Share:
+"Hey [Name]! Here's the link to the free Salon Growth Playbook I mentioned: evolvxai.com/free-playbook-access — it covers Google Maps ranking, Instagram content, client reactivation, and referral systems. Completely free. Let me know what you think!"
+Text Message 2 — Gentle Follow-Up:
+"Hey [Name] — just wanted to make sure you saw the free playbook link I sent. A lot of Dubai salon owners have been telling me it really helped them see their online presence differently. Here it is again: evolvxai.com/free-playbook-access"
+Text Message 3 — After They Download:
+"Hey [Name]! Thanks for grabbing the playbook! I'd love to hear which part resonated most with [Salon Name]. If you have any questions about implementing the strategies, feel free to reach out anytime. Happy to help!"
+
 PART 6: THREADS / X OUTREACH SCRIPTS
 Reply Scripts (Engage on Salon Owner Posts)
 Reply A — On ad complaints:
-"This is so true — I've been working with salon owners on exactly this. The ones who switched to organic marketing are spending $0 on ads and getting more bookings than before."
+"This is so common in Dubai — I've been talking to salon owners about this. The ones who switched to organic marketing are spending zero on ads and getting more bookings than before. Google Maps + WhatsApp reactivation is the combo most people overlook."
 Reply B — On marketing questions:
-"The 3 things I've seen work best: Google Maps optimization, client reactivation (WhatsApp scripts work incredibly well), and a simple referral system. No ads needed."
+"The 3 things I've seen work best for Dubai salons: Google Maps optimization, client reactivation via WhatsApp (works incredibly well here), and a simple referral system. No ads needed."
 Original Post Scripts
 Post A:
-"Hot take: salon owners spending $3k-$8k/month on ads are renting their clients, not building a business. The smart ones are building organic systems. I just helped 500+ do exactly that."
+"Dubai salon owners spending AED 5,000-15,000/month on ads — what if you could get MORE bookings for AED 0? I've been helping salon owners build organic systems that replace their ad spend entirely. It starts with Google Maps."
 Post B:
-"A salon owner sent 3 WhatsApp messages to clients who hadn't visited in 90+ days. 23 came back in a week. $0 spent. The right message > the biggest ad budget."
+"A Dubai salon owner sent 3 WhatsApp messages to clients who hadn't visited in 90+ days. 18 came back in a week. AED 0 spent. The right message beats the biggest ad budget every time."
 Post C:
-"The $48,000 question: If you're a salon owner spending $3k/month on ads, that's $36k/year. Add everything else and you're at $48k+ just to stay visible. What if you could get MORE bookings for $0?"
+"Did a quick calculation: AED 8,000/month on ads = almost AED 100,000/year. Add the social media manager and boosted posts — you're at AED 120,000+ just to stay visible. What if there was a better way? (There is.)"

@@ -1,5 +1,5 @@
 # SALON AUDIT REPORTS — Dubai Personalized Outreach Database
-## Salon Marketing Masterclass — Dubai Campaign | evolvxai.com/free-playbook
+## Salon Marketing Masterclass — Dubai Campaign | evolvxai.com/free-playbook-access
 
 ---
 
@@ -52,7 +52,7 @@
 "Hey Samantha! I came across The Green House Salon while researching top-rated salons in Dubai — love the story of how you built it from pure passion. The fact that it's grown into one of Dubai's most trusted salon spaces says everything about the quality. Quick question — are you currently capturing emails or WhatsApp contacts from your walk-in clients, or do most of them just come and go without a way to follow up?"
 
 ### PERSONALIZED DM (Follow-Up)
-"Thanks for connecting, Samantha! The reason I ask is because I work with established salons like The Green House that already have the reputation and the skills — but are leaving money on the table with their online presence. Looking at your Google profile and Instagram, there's so much untapped potential to drive even more bookings organically. Salons I work with in Dubai typically double their review count in 90 days and fill 15-20 extra appointments per week just from Instagram alone once they have the right system. I put together a step-by-step program specifically for salon owners in your position. It covers everything from Google domination to Instagram content systems to client reactivation campaigns. Right now it is available for 349 AED (normally 1,797 AED) and comes with a full 30-day money-back guarantee — so there is zero risk. Here is the link if you want to take a look: evolvxai.com/free-playbook"
+"Thanks for connecting, Samantha! The reason I ask is because I work with established salons like The Green House that already have the reputation and the skills — but are leaving money on the table with their online presence. Looking at your Google profile and Instagram, there's so much untapped potential to drive even more bookings organically. Salons I work with in Dubai typically double their review count in 90 days and fill 15-20 extra appointments per week just from Instagram alone once they have the right system. I put together a step-by-step program specifically for salon owners in your position. It covers everything from Google domination to Instagram content systems to client reactivation campaigns. Right now it is available for 349 AED (normally 1,797 AED) and comes with a full 30-day money-back guarantee — so there is zero risk. Here is the link if you want to take a look: evolvxai.com/free-playbook-access"
 
 ### PERSONALIZED EMAIL (For GHL)
 **Subject:** Samantha — a quick observation about The Green House Salon's online presence
@@ -73,7 +73,7 @@ I put together a step-by-step program that covers Google Business domination, In
 
 It is normally 1,797 AED, but right now it is available for just 349 AED with a 30-day money-back guarantee.
 
-Check it out: evolvxai.com/free-playbook
+Check it out: evolvxai.com/free-playbook-access
 
 Best regards,
 [Your Name]
